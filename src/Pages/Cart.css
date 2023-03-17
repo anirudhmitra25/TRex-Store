@@ -1,0 +1,26 @@
+.checkout-btn{
+    background-color: black;
+    padding: 4px;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    width: 75%;
+    margin-bottom: 1rem;
+}
+.cart-wrapper{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.cart-header{
+      margin-left: 5rem;
+      font-family: serif;
+}
+@media only screen and (max-width: 500px) {
+    .cart-wrapper{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+    .cart-header{
+        margin-left: 1rem;
+    }
+}
