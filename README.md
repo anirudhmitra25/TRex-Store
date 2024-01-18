@@ -2,6 +2,8 @@
 
 TRex Store is a web application built using React.js and Redux, providing functionality for managing a shopping cart, wishlist, and displaying a list of products. This project serves as my solution for the coding challenge detailed [here](https://www.geektrust.com/coding/detailed/teerex-store).
 
+![Demo](public/demo.gif)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
